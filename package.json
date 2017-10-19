@@ -4,13 +4,22 @@
   "description": "",
   "main": "bot.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "botkit": "^0.5.8",
     "forecast.io": "0.0.9",
-    "slackbots": "^0.5.1"
+    "getlocation": "^1.0.6",
+    "ip": "^1.1.5",
+    "ip-to-location": "^1.0.1",
+    "location": "0.0.1",
+    "public-ip": "^2.3.5",
+    "slackbots": "^0.5.1",
+    "mocha": "4.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
   }
 }
