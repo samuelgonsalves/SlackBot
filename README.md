@@ -1,6 +1,7 @@
 # Slack bot
 
-https://coveralls.io/repos/sdg123/SlackBot/badge.png
+![alt text](
+https://coveralls.io/repos/sdg123/SlackBot/badge.png)
 
 We will write a simple slack bot that will tell us the current weather.
 
