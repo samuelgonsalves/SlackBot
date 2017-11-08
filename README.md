@@ -1,6 +1,6 @@
 # Slack bot
 
-[![Coverage Status](https://coveralls.io/repos/github/sdg123/SlackBot/badge.svg?branch=master&service=github)](https://coveralls.io/github/sdg123/SlackBot?branch=master&service=github)
+<img src = "https://coveralls.io/repos/github/sdg123/SlackBot/badge.svg?branch=master&service=github?12334)"/>
 
 We will write a simple slack bot that will tell us the current weather.
 
