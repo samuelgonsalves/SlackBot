@@ -1,4 +1,4 @@
-break!
+
 var assert = require('assert');
 var Toggle = require('./toggle');
 /*
